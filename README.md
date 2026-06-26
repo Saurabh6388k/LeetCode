@@ -14,6 +14,7 @@
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -35,6 +37,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -48,6 +51,7 @@
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Hash Table
 |  |
 | ------- |
