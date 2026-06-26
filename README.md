@@ -11,6 +11,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +49,20 @@
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Array
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
