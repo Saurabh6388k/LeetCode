@@ -12,6 +12,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -22,6 +23,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -43,6 +46,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Hash Table
 |  |
