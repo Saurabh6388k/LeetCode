@@ -20,6 +20,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Saurabh6388k/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Saurabh6388k/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -45,6 +46,7 @@
 | [0687-longest-univalue-path](https://github.com/Saurabh6388k/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/Saurabh6388k/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Saurabh6388k/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Saurabh6388k/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -65,6 +67,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -85,6 +88,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Saurabh6388k/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Saurabh6388k/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -123,6 +127,7 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
