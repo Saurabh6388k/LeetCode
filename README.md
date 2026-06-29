@@ -22,6 +22,7 @@
 | [0938-range-sum-of-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Saurabh6388k/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0872-leaf-similar-trees](https://github.com/Saurabh6388k/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Saurabh6388k/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0938-range-sum-of-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Saurabh6388k/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Hash Table
 |  |
 | ------- |
