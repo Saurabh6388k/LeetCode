@@ -21,6 +21,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Saurabh6388k/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Saurabh6388k/LeetCode/tree/master/0814-binary-tree-pruning) |
@@ -52,6 +53,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Saurabh6388k/LeetCode/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
 | [0814-binary-tree-pruning](https://github.com/Saurabh6388k/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/Saurabh6388k/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
@@ -127,6 +130,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -137,6 +141,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
 ## Divide and Conquer
 |  |
 | ------- |
