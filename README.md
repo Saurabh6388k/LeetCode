@@ -66,6 +66,7 @@
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Saurabh6388k/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Saurabh6388k/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -141,6 +142,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
 |  |
 | ------- |
@@ -184,8 +186,13 @@
 | [0133-clone-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/0133-clone-graph) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1791-find-center-of-star-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
