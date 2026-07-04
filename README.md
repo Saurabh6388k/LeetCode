@@ -49,6 +49,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0547-number-of-provinces](https://github.com/Saurabh6388k/LeetCode/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Saurabh6388k/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0623-add-one-row-to-tree) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/0133-clone-graph) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Saurabh6388k/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Saurabh6388k/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/Saurabh6388k/LeetCode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1791-find-center-of-star-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -198,5 +201,6 @@
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Saurabh6388k/LeetCode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
