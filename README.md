@@ -135,6 +135,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/Saurabh6388k/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -163,6 +164,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
+| [0997-find-the-town-judge](https://github.com/Saurabh6388k/LeetCode/tree/master/0997-find-the-town-judge) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Saurabh6388k/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Saurabh6388k/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/Saurabh6388k/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
