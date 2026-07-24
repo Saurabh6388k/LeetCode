@@ -75,6 +75,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/Saurabh6388k/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Saurabh6388k/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -160,6 +161,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saurabh6388k/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Array
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saurabh6388k/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Saurabh6388k/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
@@ -230,6 +233,7 @@
 | [0207-course-schedule](https://github.com/Saurabh6388k/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Saurabh6388k/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Matrix
 |  |
 | ------- |
