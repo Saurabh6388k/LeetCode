@@ -171,6 +171,7 @@
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
 | [0997-find-the-town-judge](https://github.com/Saurabh6388k/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1514-path-with-maximum-probability](https://github.com/Saurabh6388k/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Saurabh6388k/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
@@ -216,6 +217,7 @@
 | [0841-keys-and-rooms](https://github.com/Saurabh6388k/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Saurabh6388k/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saurabh6388k/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1514-path-with-maximum-probability](https://github.com/Saurabh6388k/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -242,4 +244,12 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Saurabh6388k/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/Saurabh6388k/LeetCode/tree/master/1514-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/Saurabh6388k/LeetCode/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
