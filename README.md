@@ -235,6 +235,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Saurabh6388k/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
@@ -268,6 +269,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Greedy
 |  |
 | ------- |
