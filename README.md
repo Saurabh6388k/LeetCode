@@ -173,6 +173,7 @@
 | [0997-find-the-town-judge](https://github.com/Saurabh6388k/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1514-path-with-maximum-probability](https://github.com/Saurabh6388k/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Saurabh6388k/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
@@ -225,6 +226,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Saurabh6388k/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
@@ -248,15 +250,18 @@
 |  |
 | ------- |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Saurabh6388k/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/Saurabh6388k/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/Saurabh6388k/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
