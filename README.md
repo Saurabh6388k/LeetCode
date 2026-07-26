@@ -175,6 +175,7 @@
 | [0997-find-the-town-judge](https://github.com/Saurabh6388k/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1514-path-with-maximum-probability](https://github.com/Saurabh6388k/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -230,6 +231,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -273,4 +275,12 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+## Greedy
+|  |
+| ------- |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 <!---LeetCode Topics End-->
