@@ -26,6 +26,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Saurabh6388k/LeetCode/tree/master/0814-binary-tree-pruning) |
+| [0834-sum-of-distances-in-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0872-leaf-similar-trees](https://github.com/Saurabh6388k/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -64,6 +65,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Saurabh6388k/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/Saurabh6388k/LeetCode/tree/master/0814-binary-tree-pruning) |
+| [0834-sum-of-distances-in-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/Saurabh6388k/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Saurabh6388k/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -221,6 +223,7 @@
 | [0547-number-of-provinces](https://github.com/Saurabh6388k/LeetCode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Saurabh6388k/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [0834-sum-of-distances-in-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/Saurabh6388k/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Saurabh6388k/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saurabh6388k/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -286,4 +289,12 @@
 |  |
 | ------- |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
