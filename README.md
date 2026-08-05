@@ -79,6 +79,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/Saurabh6388k/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Saurabh6388k/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Saurabh6388k/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -167,6 +168,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saurabh6388k/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Saurabh6388k/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -178,6 +180,7 @@
 | [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
 | [0997-find-the-town-judge](https://github.com/Saurabh6388k/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1514-path-with-maximum-probability](https://github.com/Saurabh6388k/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Saurabh6388k/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -235,6 +238,7 @@
 | [1615-maximal-network-rank](https://github.com/Saurabh6388k/LeetCode/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Saurabh6388k/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
@@ -304,4 +308,12 @@
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Saurabh6388k/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
+## Math
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Saurabh6388k/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Saurabh6388k/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
