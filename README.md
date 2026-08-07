@@ -76,6 +76,7 @@
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Saurabh6388k/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Saurabh6388k/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/Saurabh6388k/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saurabh6388k/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Saurabh6388k/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -243,6 +244,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saurabh6388k/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Saurabh6388k/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Saurabh6388k/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1192-critical-connections-in-a-network](https://github.com/Saurabh6388k/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saurabh6388k/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Saurabh6388k/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -373,4 +375,12 @@
 |  |
 | ------- |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Saurabh6388k/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Saurabh6388k/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Saurabh6388k/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
