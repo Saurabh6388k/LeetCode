@@ -73,6 +73,7 @@
 | [0938-range-sum-of-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saurabh6388k/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Saurabh6388k/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Saurabh6388k/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Saurabh6388k/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -167,6 +168,7 @@
 | [0841-keys-and-rooms](https://github.com/Saurabh6388k/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Saurabh6388k/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Saurabh6388k/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -186,6 +188,7 @@
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
 | [0997-find-the-town-judge](https://github.com/Saurabh6388k/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/Saurabh6388k/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Saurabh6388k/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Saurabh6388k/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -272,6 +275,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Saurabh6388k/LeetCode/tree/master/0547-number-of-provinces) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saurabh6388k/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1020-number-of-enclaves](https://github.com/Saurabh6388k/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saurabh6388k/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Saurabh6388k/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saurabh6388k/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -288,6 +292,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1020-number-of-enclaves](https://github.com/Saurabh6388k/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
