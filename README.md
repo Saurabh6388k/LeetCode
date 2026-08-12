@@ -64,6 +64,7 @@
 | [0687-longest-univalue-path](https://github.com/Saurabh6388k/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
 | [0743-network-delay-time](https://github.com/Saurabh6388k/LeetCode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Saurabh6388k/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Saurabh6388k/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -168,6 +169,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
 | [0743-network-delay-time](https://github.com/Saurabh6388k/LeetCode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Saurabh6388k/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Saurabh6388k/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -251,6 +253,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Saurabh6388k/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Saurabh6388k/LeetCode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Saurabh6388k/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Saurabh6388k/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -287,6 +290,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Saurabh6388k/LeetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Saurabh6388k/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saurabh6388k/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Saurabh6388k/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saurabh6388k/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -363,6 +367,7 @@
 ## Graph Coloring
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Saurabh6388k/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Saurabh6388k/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Math
 |  |
@@ -375,6 +380,7 @@
 ## Bipartite Graph
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Saurabh6388k/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saurabh6388k/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Memoization
 |  |
