@@ -63,6 +63,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Saurabh6388k/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Saurabh6388k/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/Saurabh6388k/LeetCode/tree/master/0814-binary-tree-pruning) |
@@ -165,6 +166,7 @@
 | [0623-add-one-row-to-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Saurabh6388k/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Saurabh6388k/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -246,6 +248,7 @@
 | [0310-minimum-height-trees](https://github.com/Saurabh6388k/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Saurabh6388k/LeetCode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Saurabh6388k/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0834-sum-of-distances-in-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
@@ -310,6 +313,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Saurabh6388k/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Saurabh6388k/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -320,6 +324,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Saurabh6388k/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Saurabh6388k/LeetCode/tree/master/1514-path-with-maximum-probability) |
@@ -339,6 +344,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Saurabh6388k/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## DP on Trees
