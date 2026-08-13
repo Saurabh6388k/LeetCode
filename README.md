@@ -71,6 +71,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Saurabh6388k/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/Saurabh6388k/LeetCode/tree/master/0814-binary-tree-pruning) |
+| [0827-making-a-large-island](https://github.com/Saurabh6388k/LeetCode/tree/master/0827-making-a-large-island) |
 | [0834-sum-of-distances-in-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/Saurabh6388k/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Saurabh6388k/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -179,6 +180,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Saurabh6388k/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/Saurabh6388k/LeetCode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Saurabh6388k/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -207,6 +209,7 @@
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
 | [0778-swim-in-rising-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/Saurabh6388k/LeetCode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Saurabh6388k/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Saurabh6388k/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Saurabh6388k/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -304,6 +307,7 @@
 | [0547-number-of-provinces](https://github.com/Saurabh6388k/LeetCode/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Saurabh6388k/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/Saurabh6388k/LeetCode/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saurabh6388k/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Saurabh6388k/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saurabh6388k/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -327,6 +331,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/Saurabh6388k/LeetCode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Saurabh6388k/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Saurabh6388k/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
