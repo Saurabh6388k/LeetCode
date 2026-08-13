@@ -65,6 +65,7 @@
 | [0687-longest-univalue-path](https://github.com/Saurabh6388k/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
 | [0743-network-delay-time](https://github.com/Saurabh6388k/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Saurabh6388k/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -106,6 +107,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0778-swim-in-rising-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0897-increasing-order-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Saurabh6388k/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Saurabh6388k/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -172,6 +174,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
 | [0743-network-delay-time](https://github.com/Saurabh6388k/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Saurabh6388k/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saurabh6388k/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -203,6 +206,7 @@
 | [0542-01-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
+| [0778-swim-in-rising-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Saurabh6388k/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Saurabh6388k/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Saurabh6388k/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -298,6 +302,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Saurabh6388k/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Saurabh6388k/LeetCode/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Saurabh6388k/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saurabh6388k/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Saurabh6388k/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -321,6 +326,7 @@
 | [0130-surrounded-regions](https://github.com/Saurabh6388k/LeetCode/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Saurabh6388k/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Saurabh6388k/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -334,6 +340,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Saurabh6388k/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Saurabh6388k/LeetCode/tree/master/1514-path-with-maximum-probability) |
@@ -410,6 +417,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Saurabh6388k/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Saurabh6388k/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Saurabh6388k/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -434,4 +442,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Saurabh6388k/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
