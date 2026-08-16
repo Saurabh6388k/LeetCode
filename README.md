@@ -382,6 +382,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Saurabh6388k/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Saurabh6388k/LeetCode/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0542-01-matrix) |
@@ -401,6 +402,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Saurabh6388k/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Saurabh6388k/LeetCode/tree/master/0070-climbing-stairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Saurabh6388k/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Geometry
@@ -458,4 +460,8 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0778-swim-in-rising-water) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Saurabh6388k/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
