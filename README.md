@@ -207,6 +207,7 @@
 | [0063-unique-paths-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Saurabh6388k/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Saurabh6388k/LeetCode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Saurabh6388k/LeetCode/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -391,6 +392,7 @@
 | [0063-unique-paths-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Saurabh6388k/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Saurabh6388k/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Saurabh6388k/LeetCode/tree/master/0120-triangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0542-01-matrix) |
