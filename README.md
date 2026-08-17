@@ -264,6 +264,7 @@
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0392-is-subsequence) |
 | [0606-construct-string-from-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 ## Graph Theory
 |  |
@@ -397,6 +398,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Saurabh6388k/LeetCode/tree/master/0120-triangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0392-is-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
@@ -459,6 +461,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0392-is-subsequence) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Saurabh6388k/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 ## Biconnected Component
 |  |
