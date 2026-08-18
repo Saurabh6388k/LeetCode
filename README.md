@@ -214,6 +214,7 @@
 | [0198-house-robber](https://github.com/Saurabh6388k/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
@@ -403,6 +404,7 @@
 | [0213-house-robber-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
@@ -483,4 +485,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Saurabh6388k/LeetCode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
