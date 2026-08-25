@@ -274,6 +274,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0606-construct-string-from-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 ## Graph Theory
 |  |
@@ -415,6 +416,7 @@
 | [0392-is-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
