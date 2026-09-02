@@ -274,6 +274,7 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Saurabh6388k/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Saurabh6388k/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Saurabh6388k/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0392-is-subsequence) |
@@ -399,6 +400,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Saurabh6388k/LeetCode/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/Saurabh6388k/LeetCode/tree/master/0455-assign-cookies) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 ## Ordered Set
@@ -408,6 +410,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Saurabh6388k/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Saurabh6388k/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -537,4 +540,8 @@
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Saurabh6388k/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Saurabh6388k/LeetCode/tree/master/1092-shortest-common-supersequence) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Saurabh6388k/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
