@@ -464,6 +464,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Saurabh6388k/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Saurabh6388k/LeetCode/tree/master/0070-climbing-stairs) |
+| [0342-power-of-four](https://github.com/Saurabh6388k/LeetCode/tree/master/0342-power-of-four) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Saurabh6388k/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Geometry
 |  |
@@ -556,4 +557,9 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Saurabh6388k/LeetCode/tree/master/0044-wildcard-matching) |
+| [0342-power-of-four](https://github.com/Saurabh6388k/LeetCode/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Saurabh6388k/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
