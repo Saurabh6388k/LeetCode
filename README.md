@@ -239,6 +239,7 @@
 | [0994-rotting-oranges](https://github.com/Saurabh6388k/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Saurabh6388k/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Saurabh6388k/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Saurabh6388k/LeetCode/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Saurabh6388k/LeetCode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -461,6 +462,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saurabh6388k/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Saurabh6388k/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Saurabh6388k/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Saurabh6388k/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
