@@ -206,6 +206,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Saurabh6388k/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Saurabh6388k/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -425,6 +426,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Saurabh6388k/LeetCode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Saurabh6388k/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Saurabh6388k/LeetCode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saurabh6388k/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -438,6 +440,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Saurabh6388k/LeetCode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Saurabh6388k/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Saurabh6388k/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0064-minimum-path-sum) |
