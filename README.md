@@ -237,6 +237,7 @@
 | [0733-flood-fill](https://github.com/Saurabh6388k/LeetCode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Saurabh6388k/LeetCode/tree/master/0827-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/Saurabh6388k/LeetCode/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/Saurabh6388k/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Saurabh6388k/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Saurabh6388k/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -427,6 +428,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Saurabh6388k/LeetCode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saurabh6388k/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/Saurabh6388k/LeetCode/tree/master/0860-lemonade-change) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 ## Ordered Set
 |  |
