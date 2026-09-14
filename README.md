@@ -206,6 +206,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saurabh6388k/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Saurabh6388k/LeetCode/tree/master/0056-merge-intervals) |
@@ -271,12 +272,14 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Saurabh6388k/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Saurabh6388k/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Sorting
@@ -447,6 +450,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Saurabh6388k/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saurabh6388k/LeetCode/tree/master/0055-jump-game) |
@@ -551,6 +555,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Saurabh6388k/LeetCode/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/Saurabh6388k/LeetCode/tree/master/1048-longest-string-chain) |
