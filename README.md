@@ -276,6 +276,7 @@
 | [0042-trapping-rain-water](https://github.com/Saurabh6388k/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Saurabh6388k/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/Saurabh6388k/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0897-increasing-order-search-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Monotonic Stack
 |  |
@@ -313,6 +314,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Saurabh6388k/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/Saurabh6388k/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1048-longest-string-chain](https://github.com/Saurabh6388k/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Saurabh6388k/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Saurabh6388k/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -442,6 +444,7 @@
 | [0135-candy](https://github.com/Saurabh6388k/LeetCode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Saurabh6388k/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Saurabh6388k/LeetCode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Saurabh6388k/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saurabh6388k/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Saurabh6388k/LeetCode/tree/master/0860-lemonade-change) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
@@ -487,6 +490,7 @@
 | [0542-01-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Saurabh6388k/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Saurabh6388k/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saurabh6388k/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Saurabh6388k/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0834-sum-of-distances-in-tree) |
@@ -626,4 +630,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Saurabh6388k/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
