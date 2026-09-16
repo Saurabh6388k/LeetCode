@@ -239,6 +239,7 @@
 | [0494-target-sum](https://github.com/Saurabh6388k/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Saurabh6388k/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0690-employee-importance](https://github.com/Saurabh6388k/LeetCode/tree/master/0690-employee-importance) |
@@ -294,6 +295,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Saurabh6388k/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Saurabh6388k/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Saurabh6388k/LeetCode/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Saurabh6388k/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Saurabh6388k/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Saurabh6388k/LeetCode/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Saurabh6388k/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -449,6 +451,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Saurabh6388k/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Saurabh6388k/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Saurabh6388k/LeetCode/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Saurabh6388k/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Saurabh6388k/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saurabh6388k/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Saurabh6388k/LeetCode/tree/master/0860-lemonade-change) |
@@ -494,6 +497,7 @@
 | [0518-coin-change-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Saurabh6388k/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Saurabh6388k/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Saurabh6388k/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Saurabh6388k/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saurabh6388k/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -634,6 +638,7 @@
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Saurabh6388k/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Saurabh6388k/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Bracket Sequences
 |  |
