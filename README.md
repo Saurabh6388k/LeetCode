@@ -224,6 +224,7 @@
 | [0130-surrounded-regions](https://github.com/Saurabh6388k/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Saurabh6388k/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Saurabh6388k/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Saurabh6388k/LeetCode/tree/master/0136-single-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Saurabh6388k/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Saurabh6388k/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/0213-house-robber-ii) |
@@ -628,6 +629,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Saurabh6388k/LeetCode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Saurabh6388k/LeetCode/tree/master/0342-power-of-four) |
 ## Binary Indexed Tree
 |  |
