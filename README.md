@@ -262,6 +262,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Saurabh6388k/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Saurabh6388k/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Saurabh6388k/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saurabh6388k/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Saurabh6388k/LeetCode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Saurabh6388k/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Saurabh6388k/LeetCode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
